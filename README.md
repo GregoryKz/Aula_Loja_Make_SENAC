@@ -32,15 +32,15 @@ O projeto tem como objetivo auxiliar os alunos a:
 ## 📁 Estrutura do Projeto
 
 Aulas_Loja_Make_SENAC/
-├── app.py # Backend em Python com rotas e lógica
-├── loja_makeup.sql # Script SQL do banco de dados MySQL
-├── templates/ # Templates HTML
-│ ├── index.html # Página inicial / catálogo
-│ └── outros templates # (se houver)
-├── static/ # Arquivos estáticos (CSS, imagens)
-│ ├── css/ # Estilos do site
-│ └── imagens/ # Imagens de produtos
-├── README.md # Este arquivo
+- ├── app.py # Backend em Python com rotas e lógica
+- ├── loja_makeup.sql # Script SQL do banco de dados MySQL
+- ├── templates/ # Templates HTML
+- │ ├── index.html # Página inicial / catálogo
+- │ └── outros templates # (se houver)
+- ├── static/ # Arquivos estáticos (CSS, imagens)
+- │ ├── css/ # Estilos do site
+- │ └── imagens/ # Imagens de produtos
+- ├── README.md # Este arquivo
 
 yaml
 Copiar código
